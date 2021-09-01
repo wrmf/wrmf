@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @wrmf
+- 👀 I’m interested in Computer Science
