@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @wrmf
 - 👀 I’m interested in Computer Science and Aviation
-- Contact me on twitter at @wrmf_
