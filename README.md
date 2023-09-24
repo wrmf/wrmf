@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @wrmf
-- 👀 I’m interested in Computer Science and Aviation
+- 👀 I like Aviation and programming
